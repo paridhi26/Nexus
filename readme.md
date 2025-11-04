@@ -3,7 +3,7 @@
 nexus is a lightweight knowledge graph + vectorDB embedded library.
 
 <p align="center">
-  <img src="https://github.com/paridhi26/Nexus/blob/main/NexusBanner.png" width=850/>
+  <img src="https://github.com/paridhi26/Nexus/blob/main/NexusBanner.png" width=600/>
 </p>
 <p align="center">
         <b>VERSION 0.1</b>&nbsp
